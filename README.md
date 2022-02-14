@@ -1,7 +1,7 @@
-# run-buddy
+# Run Buddy, Inc
 
 ## Purpose
-a website that offers fitness trianing services
+A website that offers fitness trianing services.
 
 ## Built with
 *HTML
@@ -12,3 +12,5 @@ https://lernatino.github.io/run-buddy/
 
 ## Contribution
 Made With ❤️ by Michael Kuney
+
+### ©️2019 Run Buddy, Inc
